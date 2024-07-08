@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+head {
+    width: 30%;
+}
+nav {
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 8px;
+}
+#div-A1 {
+    width: 10%;
+    height: 100px;
+}
+ul {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+li {
+    padding: 5px;
+    list-style-type: none;
+}
+
+section {
+    width: 80%;
+    margin: auto;
+}
+#div-A2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+#art-2 {
+    display: flex;
+    width: 80%;
+    margin: auto;
+
+}
